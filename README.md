@@ -12,7 +12,8 @@ Front-End student
 
 ## Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=viccarv&repo=vicgit.github.io&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/viccarv/vicgit.github.io">
+<img height="130cm" src="https://github-readme-stats.vercel.app/api/pin/?username=viccarv&repo=vicgit.github.io&theme=radical" /></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viccarv&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 

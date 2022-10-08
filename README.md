@@ -9,13 +9,13 @@ Front-End student
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viccarv&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viccarv&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Projetos
 
 <a href="https://github.com/viccarv/vicgit.github.io">
-<img height="130cm" src="https://github-readme-stats.vercel.app/api/pin/?username=viccarv&repo=vicgit.github.io&theme=radical" /></a>
+<img height="120cm" src="https://github-readme-stats.vercel.app/api/pin/?username=viccarv&repo=vicgit.github.io&theme=radical" /></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viccarv&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contatos
 
